@@ -22,16 +22,16 @@
   },
   "mainServer": false,
   "autoconnect": false,
-  "modules": [
-    {
-      "id": "1.8.9-vanilla",
-      "name": "Minecraft 1.8.9",
-      "type": "VersionManifest",
-      "artifact": {
-        "url": "https://launchermeta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
-      }
+"modules": [
+  {
+    "id": "1.8.9-vanilla",
+    "name": "Vanilla 1.8.9",
+    "type": "Vanilla",
+    "artifact": {
+      "url": "https://launchermeta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
     }
-  ]
+  }
+]
 },
     {
       "id": "Survie-1.21.11",
@@ -145,4 +145,5 @@
     }
   ]
 }
+
 

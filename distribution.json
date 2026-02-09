@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Survie-1.21.1",
-      "name": "Survie (Minecraft 1.21.1)",
-      "description": "Survie Running Minecraft 1.21.1 (Fabric v0.18.4)",
+      "id": "Survie-1.21.11",
+      "name": "Survie (Minecraft 1.21.11)",
+      "description": "Survie Running Minecraft 1.21.11 (Fabric v0.18.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "45.95.113.10:30490",
-      "minecraftVersion": "1.21.1",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -34,13 +34,13 @@
           },
           "subModules": [
             {
-              "id": "1.21.1-fabric-0.18.4",
+              "id": "1.21.11-fabric-0.18.4",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2847,
-                "MD5": "1c2dc2be031456edaf487e5ffe789ceb",
-                "url": "http://localhost:8080/repo/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
+                "size": 2850,
+                "MD5": "30aca3264fe7408f44ed7c03d30e7a1c",
+                "url": "http://localhost:8080/repo/versions/1.21.11-fabric-0.18.4/1.21.11-fabric-0.18.4.json"
               }
             },
             {
@@ -104,13 +104,13 @@
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.21.1",
+              "id": "net.fabricmc:intermediary:1.21.11",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 657725,
-                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "size": 797685,
+                "MD5": "54a87ea75e373bc39b2d36df201231ea",
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.11/intermediary-1.21.11.jar"
               }
             }
           ]

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Survie-1.20.1",
-      "name": "Survie (Minecraft 1.20.1)",
-      "description": "Survie Running Minecraft 1.20.1 (Fabric v0.18.3)",
-      "icon": "C:/Users/lukas/Desktop/pelauncher/app/icon.png",
+      "id": "Survie-1.21.1",
+      "name": "Survie (Minecraft 1.21.1)",
+      "description": "Survie Running Minecraft 1.21.1 (Fabric v0.18.4)",
+      "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
+      "address": "45.95.113.10:30490",
+      "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -24,23 +24,23 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.18.3",
+          "id": "net.fabricmc:fabric-loader:0.18.4",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1944339,
-            "MD5": "7104ea805ddf05158b01701dbf17fc7d",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.3/fabric-loader-0.18.3.jar"
+            "size": 1944518,
+            "MD5": "56c00fa22e0452e8567be1feae73c3b9",
+            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-fabric-0.18.3",
+              "id": "1.21.1-fabric-0.18.4",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 2847,
-                "MD5": "54663ec7923c570044c07eca84e3f472",
-                "url": "http://localhost:8080/repo/versions/1.20.1-fabric-0.18.3/1.20.1-fabric-0.18.3.json"
+                "MD5": "1c2dc2be031456edaf487e5ffe789ceb",
+                "url": "http://localhost:8080/repo/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
               }
             },
             {
@@ -94,23 +94,23 @@
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
               "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "artifact": {
-                "size": 1504519,
-                "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "size": 1505269,
+                "MD5": "d27dcb910788a0bd4bea72942a714093",
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.20.1",
+              "id": "net.fabricmc:intermediary:1.21.1",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 573365,
-                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "size": 657725,
+                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -119,4 +119,3 @@
     }
   ]
 }
-

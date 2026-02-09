@@ -8,6 +8,23 @@
   },
   "servers": [
     {
+      "id": "Hypixel-1.8.9",
+      "name": "Hypixel (Minecraft 1.8.9)",
+      "description": "Hypixel Running Minecraft 1.8.9",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "mc.hypixel.net",
+      "minecraftVersion": "1.8.9",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    },
+    {
       "id": "Survie-1.21.11",
       "name": "Survie (Minecraft 1.21.11)",
       "description": "Survie Running Minecraft 1.21.11 (Fabric v0.18.4)",
@@ -119,4 +136,3 @@
     }
   ]
 }
-

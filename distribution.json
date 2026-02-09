@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "version": "1.0.6",
+  "rss": "https://raw.githubusercontent.com/preston16161/Launcher/main/news.rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -119,3 +119,4 @@
     }
   ]
 }
+

@@ -8,32 +8,6 @@
   },
   "servers": [
     {
-      "id": "Hypixel-1.8.9",
-      "name": "Hypixel (Minecraft 1.8.9)",
-      "description": "Hypixel Running Minecraft 1.8.9 (Forge)",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "mc.hypixel.net",
-      "minecraftVersion": "1.8.9",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "1.8.9-forge",
-          "name": "Forge 1.8.9",
-          "type": "Forge",
-          "artifact": {
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318/forge-1.8.9-11.15.1.2318-universal.jar"
-          }
-        }
-      ]
-    },
-    {
       "id": "Survie-1.21.11",
       "name": "Survie (Minecraft 1.21.11)",
       "description": "Survie Running Minecraft 1.21.11 (Fabric v0.18.4)",
@@ -145,3 +119,4 @@
     }
   ]
 }
+

@@ -1,0 +1,50 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     version="2.0">
+
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<script/>
+<script/>
+
+<channel>
+    <title>PE Launcher - Actualités</title>
+
+    <item>
+        <title>🚀 Lancement de PE Launcher (version démo)</title>
+        <content:encoded>
+            <![CDATA[
+            <p>Bienvenue sur <strong>PE Launcher</strong> !</p>
+            <p>Vous utilisez actuellement la <strong>version de démonstration</strong> du launcher.
+            Cette version permet de tester l’interface, le système de distribution et le module d’actualités.</p>
+            <p>⚠️ Cette configuration n’est pas destinée à un usage en production.</p>
+            <p>Pour créer une version complète et personnalisée de votre launcher,
+            vous pouvez utiliser l’outil
+            ]]>
+        </content:encoded>
+        <dc:creator>PE Launcher</dc:creator>
+        <pubDate>09 February 2026 12:00:00</pubDate>
+        <slash:comments>0</slash:comments>
+    </item>
+
+    <item>
+        <title>📰 Nouveau système d’actualités disponible</title>
+        <content:encoded>
+            <![CDATA[
+            <p>PE Launcher intègre désormais un <strong>module d’actualités dynamique</strong>.</p>
+            <p>Ce système vous permet d’afficher :</p>
+            <ul>
+                <li>Les annonces importantes</li>
+                <li>Les mises à jour du launcher</li>
+                <li>Les nouveautés de votre projet ou serveur</li>
+            </ul>
+            <p>Les contenus HTML sont entièrement pris en charge.</p>
+            ]]>
+        </content:encoded>
+        <dc:creator>PE Launcher</dc:creator>
+        <pubDate>09 February 2026 12:05:00</pubDate>
+    </item>
+
+</channel>
+</rss>

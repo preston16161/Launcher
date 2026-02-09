@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -11,7 +11,7 @@
       "id": "Survie-1.20.1",
       "name": "Survie (Minecraft 1.20.1)",
       "description": "Survie Running Minecraft 1.20.1 (Fabric v0.18.3)",
-      "icon": null,
+      "icon": "C:/Users/lukas/Desktop/pelauncher/app/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
@@ -119,3 +119,4 @@
     }
   ]
 }
+

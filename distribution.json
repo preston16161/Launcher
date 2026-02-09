@@ -7,32 +7,32 @@
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
+{
+  "id": "Hypixel-1.8.9",
+  "name": "Hypixel (Minecraft 1.8.9)",
+  "description": "Hypixel Running Minecraft 1.8.9",
+  "icon": null,
+  "version": "1.0.0",
+  "address": "mc.hypixel.net",
+  "minecraftVersion": "1.8.9",
+  "discord": {
+    "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "mainServer": false,
+  "autoconnect": false,
+  "modules": [
     {
-      "id": "Hypixel-1.8.9",
-      "name": "Hypixel (Minecraft 1.8.9)",
-      "description": "Hypixel Running Minecraft 1.8.9",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "mc.hypixel.net",
-      "minecraftVersion": "1.8.9",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "1.8.9-vanilla",
-          "name": "Minecraft 1.8.9",
-          "type": "VersionManifest",
-          "artifact": {
-            "url": "https://piston-meta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
-          }
-        }
-      ]
-    },
+      "id": "1.8.9-vanilla",
+      "name": "Minecraft 1.8.9",
+      "type": "VersionManifest",
+      "artifact": {
+        "url": "https://launchermeta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
+      }
+    }
+  ]
+},
     {
       "id": "Survie-1.21.11",
       "name": "Survie (Minecraft 1.21.11)",
@@ -145,3 +145,4 @@
     }
   ]
 }
+

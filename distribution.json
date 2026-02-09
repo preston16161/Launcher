@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Hypixel-1.8.9",
+      "id": "hypixel-1.8.9",
       "name": "Hypixel (Minecraft 1.8.9)",
       "description": "Hypixel Running Minecraft 1.8.9",
       "icon": null,
@@ -24,7 +24,7 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "1.8.9-vanilla",
+          "id": "vanilla-1.8.9",
           "name": "Vanilla 1.8.9",
           "type": "Vanilla",
           "artifact": {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "id": "Survie-1.21.11",
+      "id": "survie-1.21.11",
       "name": "Survie (Minecraft 1.21.11)",
       "description": "Survie Running Minecraft 1.21.11 (Fabric v0.18.4)",
       "icon": null,

@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "hypixel-1.8.9",
+      "id": "Hypixel-1.8.9",
       "name": "Hypixel (Minecraft 1.8.9)",
-      "description": "Hypixel Running Minecraft 1.8.9",
+      "description": "Hypixel Running Minecraft 1.8.9 (Forge)",
       "icon": null,
       "version": "1.0.0",
       "address": "mc.hypixel.net",
@@ -24,17 +24,17 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "vanilla-1.8.9",
-          "name": "Vanilla 1.8.9",
-          "type": "Vanilla",
+          "id": "1.8.9-forge",
+          "name": "Forge 1.8.9",
+          "type": "Forge",
           "artifact": {
-            "url": "https://launchermeta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
+            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318/forge-1.8.9-11.15.1.2318-universal.jar"
           }
         }
       ]
     },
     {
-      "id": "survie-1.21.11",
+      "id": "Survie-1.21.11",
       "name": "Survie (Minecraft 1.21.11)",
       "description": "Survie Running Minecraft 1.21.11 (Fabric v0.18.4)",
       "icon": null,
